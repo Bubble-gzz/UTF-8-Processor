@@ -1,0 +1,3 @@
+E:/Bubble/programming/C++/UTF-8-Processor/cmake-build-debug/CMakeFiles/UTF_8_Processor.dir
+E:/Bubble/programming/C++/UTF-8-Processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Bubble/programming/C++/UTF-8-Processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

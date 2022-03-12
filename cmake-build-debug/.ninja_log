@@ -1,0 +1,6 @@
+# ninja log v5
+0	50	6687836062715965	CMakeFiles/UTF_8_Processor.dir/main.cpp.obj	4a9accc41c2a8885
+1	285	6687838494616257	CMakeFiles/UTF_8_Processor.dir/utf8.cpp.obj	1755c24b310c7e10
+286	384	6687838495520423	UTF_8_Processor.exe	1772c96aa2ced84f
+3	265	6687840282633255	CMakeFiles/UTF_8_Processor.dir/utf8.cpp.obj	1755c24b310c7e10
+265	354	6687840283514491	UTF_8_Processor.exe	1772c96aa2ced84f
